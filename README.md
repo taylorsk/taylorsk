@@ -2,4 +2,4 @@
 - 👀 I’m interested in Mathematical finance
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on... a secret ;)
-- 📫 @taylrsk on twitter
+- 📫 <a href="https://twitter.com/taylrsk">@taylrsk</a>
